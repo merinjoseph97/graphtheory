@@ -1,2 +1,1 @@
-# graphtheory
-project
+# GraphTheory
